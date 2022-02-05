@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-const baseURL  = "https://spring-boot-wisestep.herokuapp.com/";
+const baseURL  = "https://spring-boot-wisestep.herokuapp.com";
 
 @Injectable({
   providedIn: 'root'
