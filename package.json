@@ -28,6 +28,7 @@
     "typescript": "~4.5.4"
   },
   "devDependencies": {
+    "increase-memory-limit": "^1.0.3",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
     "jasmine-core": "~3.10.0",
