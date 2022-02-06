@@ -36,7 +36,8 @@
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.1.0",
     "karma-jasmine": "~4.0.0",
-    "karma-jasmine-html-reporter": "~1.7.0"
+    "karma-jasmine-html-reporter": "~1.7.0",
+    "aot": "node --max-old-space-size=8192 ./node_modules/gulp/bin/gulp.js serve.prod.aot"
   },
   "engines": {
     "node": "16.13.2",
