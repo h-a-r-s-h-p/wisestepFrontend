@@ -29,3 +29,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## To successfully deploy angular app
 https://www.javaguides.net/2020/11/how-to-deploy-angular-application-to-heroku.html
+
+## Aplication URL
+https://angular-wisestep.herokuapp.com/
+
+## Tutorial to create a  Angular spring-Boot  full stack application
+https://www.youtube.com/watch?v=G46fjVzQ7BQ
